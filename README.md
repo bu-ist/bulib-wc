@@ -35,7 +35,7 @@ Install dependencies via node package manager
 
 ```bash
 $ brew install node
-$ git clone https://github.com/bulib/bulib-wc.git
+$ git clone https://github.com/bu-ist/bulib-wc.git
 $ cd bulib-wc
 $ npm install
 ```
