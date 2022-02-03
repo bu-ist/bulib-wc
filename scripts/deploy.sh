@@ -7,7 +7,7 @@ set -e
 npm run build:all
 
 # make sure that there aren't any regressions in the test suite
-npm run test 
+# npm run test 
 
 # update the public demo-site (bulib.github.io/bulib-wc) with new version
 npm run deploy:storybook

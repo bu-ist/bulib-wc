@@ -8,7 +8,7 @@ const items_dictionary = {
           <span>FIND</span>
           <li><a href="https://www.bu.edu/library/search">Search</a></li>
           <li><a href="https://library.bu.edu/az.php">Databases A-Z</a></li>
-          <li><a href="https://www.bu.edu/library/services/reserves/">Course Materials</a></li>
+          <li><a href="https://www.bu.edu/library/services/reserves/">Course Materials (Reserves)</a></li>
           <li><a href="https://buprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=journals&lang=en_US">eJournals</a></li>
         </ul>
       </li>
@@ -30,7 +30,6 @@ const items_dictionary = {
           <span>SERVICES</span>
           <li><a href="https://www.bu.edu/library/services/scanning-delivery-services/">Scanning &amp; Digital Delivery</a></li>
           <li><a href="https://www.bu.edu/library/services/reserves/">Course Reserves</a></li>
-          <li><a href="https://www.bu.edu/disc/">Digital Scholarship</a></li>
           <li><a href="https://www.bu.edu/data/">Data Services</a></li>
         </ul>
       </li>
