@@ -29,7 +29,7 @@ const items_dictionary = {
         <ul class="no-bullet no-bullet" tabindex="0">
           <span>SERVICES</span>
           <li><a href="https://www.bu.edu/library/services/scanning-delivery-services/">Scanning &amp; Digital Delivery</a></li>
-          <li><a href="https://www.bu.edu/library/services/reserves/">Course Reserves</a></li>
+          <li><a href="https://www.bu.edu/library/services/reserves/">Course Materials (Reserves)</a></li>
           <li><a href="https://www.bu.edu/data/">Data Services</a></li>
         </ul>
       </li>

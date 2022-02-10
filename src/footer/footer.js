@@ -8,12 +8,12 @@ const sitemap_values = {
     "wordpress":{
     "header":"About the Libraries",
     "links":[
-      {"title":"About Us",              "href":"https://www.bu.edu/library/about/"},
-      {"title":"Location Hours",        "href":"https://www.bu.edu/library/about/hours/"},
-      {"title":"Visiting the Libraries","href":"https://www.bu.edu/library/help/visiting-the-libraries/"},
-      {"title":"Course Reserves",       "href":"https://www.bu.edu/library/services/reserves/"},
-      {"title":"Research Guides",       "href":"https://library.bu.edu/guides/"},
-      {"title":"Staff Directory",       "href":"https://www.bu.edu/library/about/who-we-are/staff-directory/"}
+      {"title":"About Us",                    "href":"https://www.bu.edu/library/about/"},
+      {"title":"Location Hours",              "href":"https://www.bu.edu/library/about/hours/"},
+      {"title":"Visiting the Libraries",      "href":"https://www.bu.edu/library/help/visiting-the-libraries/"},
+      {"title":"Course Materials (Reserves)", "href":"https://www.bu.edu/library/services/reserves/"},
+      {"title":"Research Guides",             "href":"https://library.bu.edu/guides/"},
+      {"title":"Staff Directory",             "href":"https://www.bu.edu/library/about/who-we-are/staff-directory/"}
     ]
   },"askalibrarian":{
     "header":"Ask A Librarian",
