@@ -6,7 +6,7 @@ import {sendGAEvent} from '../_helpers/google_analytix';
 
 const all_lib_hours_url = "https://www.bu.edu/library/about/hours/";
 const cors_anywhere_prefix = 'https://cors-anywhere.herokuapp.com/';
-const libcal_hours_api_url = 'https://api3.libcal.com/api_hours_today.php';
+const libcal_hours_api_url = 'https://bu.libcal.com/api_hours_today.php';
 
 
 /** display the hours of operation for a given library */
