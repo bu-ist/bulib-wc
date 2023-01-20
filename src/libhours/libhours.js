@@ -32,7 +32,7 @@ export default class BULibHours extends LitElement {
   
   _fetchHoursData(libCode, lid){
     if(!lid){ lid = 1475; }
-    let url = `${cors_anywhere_prefix}${libcal_hours_api_url}?format=json&systemTime=0&iid=1740&lid=${lid}`;
+    let url = `${libcal_hours_api_url}?format=json&systemTime=0&iid=1740&lid=${lid}`;
     this._logToConsole("calling 'libcal' with lid: '" + lid + "'.");
     this._logGAEvent("api-call", libCode);
     return fetch( url, { method: 'GET', mode:'cors'})
