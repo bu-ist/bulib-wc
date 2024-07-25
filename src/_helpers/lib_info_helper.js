@@ -96,7 +96,7 @@ const libraries_data_backup = {
     "name":"Stone Science Library",
     "short":"Stone Library",
     "website":"https://www.bu.edu/library/stone-science/",
-    "address":["675 Commonwealth Ave, Floor 2","Boston, MA 02445"],
+    "address":["675 Commonwealth Ave, Room 440","Boston, MA 02445"],
     "contacts":{"phone":"617-353-5679"},
     "hours_url":"https://www.bu.edu/library/stone-science/about/hours/",
     "libcal_lid":1785

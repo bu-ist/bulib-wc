@@ -30,7 +30,7 @@ const items_dictionary = {
           <span>SERVICES</span>
           <li><a href="https://www.bu.edu/library/services/scanning-delivery-services/">Scanning &amp; Digital Delivery</a></li>
           <li><a href="https://www.bu.edu/library/services/reserves/">Course Materials (Reserves)</a></li>
-          <li><a href="https://www.bu.edu/data/">Data Services</a></li>
+          <li><a href="https://wwwz.bu.edu/library-digital-ventures/">Digital Ventures</a></li>
         </ul>
       </li>
       <li>
@@ -50,6 +50,7 @@ const items_dictionary = {
           <li><a href="https://www.bu.edu/library/services/reference/appointments/">Make an Appointment</a></li>
           <li><a href="https://www.bu.edu/library/services/for-faculty/">For Faculty</a></li>
           <li><a href="https://www.bu.edu/library/services/for-graduate-students/">For Graduate Students</a></li>
+          <li><a href="https://www.bu.edu/library/services/alumni/">Alumni</a></li>
         </ul>
       </li>
     </ul>
@@ -81,7 +82,7 @@ const items_dictionary = {
     <ul class="submenu-items multi-column no-bullet"  tabindex="0">
       <li><a href="https://www.bu.edu/library/african-studies/">African Studies Library</a></li>  
       <li><a href="https://www.bu.edu/library/astronomy/">Astronomy Library</a></li>    
-      <li><a href="http://archives.bu.edu/">Howard Gotlieb Archival Research Center</a></li>  
+      <li><a href="https://www.bu.edu/library/gotlieb-center/">Howard Gotlieb Archival Research Center</a></li>  
       <li><a href="https://www.bu.edu/library/mugar-memorial/">Mugar Memorial Library</a></li>  
       <li><a href="https://www.bu.edu/library/music/">Music Library</a></li> 
       <li><a href="https://www.bu.edu/library/management/">Pardee Management Library</a></li> 
