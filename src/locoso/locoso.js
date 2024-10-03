@@ -40,7 +40,7 @@ export default class Locoso extends LitElement {
     let socialDisplay = html`
         <h3>Follow Us</h3>
         <ul aria-description="list of social media accounts" class="no-bullet inline-list plm">
-          <li><a target="_blank" title="twitter" class="white-link" href="http://twitter.com/bulibraries"><img alt="twitter icon" class="sm-icon white-link" src="https://cdn.jsdelivr.net/npm/@bostonuniversity/bulib-wc@latest/dist/icons/icons8-twitter-48.png"></a></li>
+          <li><a target="_blank" title="x" class="white-link" href="http://x.com/bulibraries"><img alt="x icon" class="sm-icon white-link" src="https://cdn.jsdelivr.net/npm/@bostonuniversity/bulib-wc@latest/dist/icons/icons8-x-48.png"></a></li>
           <li><a target="_blank" title="facebook" class="white-link" href="http://facebook.com/bostonulibraries"><img alt="facebook icon" class="sm-icon white-link" src="https://cdn.jsdelivr.net/npm/@bostonuniversity/bulib-wc@latest/dist/icons/icons8-facebook-48.png"></a></li>
           <li><a target="_blank" title="instagram" class="white-link" href="https://instagram.com/bulibraries"><img alt="instagram icon" class="sm-icon white-link" src="https://cdn.jsdelivr.net/npm/@bostonuniversity/bulib-wc@latest/dist/icons/icons8-instagram-48.png"></a></li>
         </ul>
