@@ -50,7 +50,7 @@ const items_dictionary = {
           <li><a href="https://www.bu.edu/library/services/reference/appointments/">Make an Appointment</a></li>
           <li><a href="https://www.bu.edu/library/services/for-faculty/">For Faculty</a></li>
           <li><a href="https://www.bu.edu/library/services/for-graduate-students/">For Graduate Students</a></li>
-          <li><a href="https://www.bu.edu/library/services/alumni/">Alumni</a></li>
+          <li><a href="https://www.bu.edu/library/services/alumni/">For Alumni</a></li>
         </ul>
       </li>
     </ul>
